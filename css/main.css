@@ -11,6 +11,6 @@ footer a{color:#454545}
   #slider .carousel{position:-ms-page;width:250%;height:60vh;float:right}
   #textheader h2{width:80%;text-align:center;font-size:180%}
   #textheader p{margin-bottom:50%}
-  #a h6, h3{position: absolute}
+  #a h6, a# h3{position: relative}
   .carousel i{display:none}
 }
